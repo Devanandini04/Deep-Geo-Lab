@@ -1,0 +1,6 @@
+__pycache__/
+*.tif
+*.tiff
+.env
+.ipynb_checkpoints/
+*.pth
