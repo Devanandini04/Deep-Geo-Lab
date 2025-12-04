@@ -17,7 +17,7 @@ This repository documents my structured journey into **GeoAI**. Instead of relyi
 
 ### Phase 1: The Mathematical Core (Current Focus) 🧠
 - [x] **Perceptrons:** Implementing the logic of a single neuron.
-- [ ] **Multi-Layer Perceptron (MLP):** Coding Forward & Backward Propagation.
+- [x] **Multi-Layer Perceptron (MLP):** Coding Forward & Backward Propagation.
 - [ ] **Optimization:** Implementing Gradient Descent & Loss Functions manually.
 
 ### Phase 2: Computer Vision 👁️
