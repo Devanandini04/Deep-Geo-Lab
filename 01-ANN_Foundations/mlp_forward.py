@@ -28,7 +28,7 @@ class MLP:
         self.W2 = np.random.randn(hidden_size, output_size)
         self.b2 = np.zeros((1, output_size)) # Bias for output layer
 
-    def forward(self, X):
+    def forward_propagation(self, X):
         """
         The "Forward Propagation" Step.
         Data flows from Input -> Hidden -> Output.
