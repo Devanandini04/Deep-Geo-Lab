@@ -25,7 +25,7 @@ This repository documents my structured journey into **GeoAI**. Instead of relyi
 - [ ] **Object Detection:** Understanding bounding boxes and anchors.
 
 ### Phase 3: GeoAI Integration 🛰️
-- [ ] **Rasterio Basics:** Handling `.tif` satellite data & Coordinate Reference Systems (CRS).
+- [*] **Rasterio Basics:** Handling `.tif` satellite data & Coordinate Reference Systems (CRS).
 - [ ] **Semantic Segmentation:** Applying U-Net to detect land/water bodies from space.
 
 ---
