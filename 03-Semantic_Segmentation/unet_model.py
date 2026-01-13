@@ -1,5 +1,6 @@
 import torch
 import torch.nn as nn
+import torchvision
 
 class UNet(nn.Module):
     def __init__(self):
